@@ -21,13 +21,13 @@ int main()
     	printf("1.1.Nhap so dong m cho mang: "); 
 		scanf("%d",&m);
     	while (m < 0||m > 100){
-    	printf("\n1.1.Vuot gía tri cho phep. Vui long nhap lai m:");
+    	printf("\n1.1.Vuot gÃ­a tri cho phep. Vui long nhap lai m:");
 		scanf("%d",&m);
     	}
     	printf("\n1.2.Nhap so cot n  cho mang: "); 
 		scanf("%d",&n);
     	while (n < 0||n > 100){
-    	printf("\n1.2.Vuot gía tri cho phep. Vui long nhap lai n:");
+    	printf("\n1.2.Vuot gÃ­a tri cho phep. Vui long nhap lai n:");
 		scanf("%d",&n);
     	}
     
